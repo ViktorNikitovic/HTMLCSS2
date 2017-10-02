@@ -1,0 +1,65 @@
+body {
+  font-family: Verdana;
+  background-image: url("../images/stars.jpg");
+}
+
+header{
+  font-size: 75px;
+  font-variant: small-caps;
+  width: 960px;
+  border: solid 2px black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-align: left;
+}
+
+#menu{
+  width: 970px;
+  border: solid 2px black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+ul li {
+  display: inline;
+}
+
+ul li a {
+  padding: 2px;
+  color: black;
+  border: solid 2px black;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: grey;
+  border: solid 2px grey;
+}
+
+#content{
+  width: 960px;
+  border: solid 2px black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-align: left;
+}
+
+#footer{
+  width: 960px;
+  border: solid 2px black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-align: left;
+}
