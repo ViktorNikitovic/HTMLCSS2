@@ -37,7 +37,7 @@
     </div>
 
     <div id="footer">
-      &copy; Joris op ten Berg <?php echo "Today is " . date("Y/m/d")?>
+      &copy; Joris op ten Berg <?php echo "Today is " . date("Y/M/D")?>
     </div>
 
   </body>
